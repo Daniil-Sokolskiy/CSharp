@@ -1,0 +1,15 @@
+D:\Geek\my-git\CSharp\Practicum1\Homework\vse chetnie do N\obj\Debug\net6.0\vse chetnie do N.csproj.AssemblyReference.cache
+D:\Geek\my-git\CSharp\Practicum1\Homework\vse chetnie do N\obj\Debug\net6.0\vse chetnie do N.GeneratedMSBuildEditorConfig.editorconfig
+D:\Geek\my-git\CSharp\Practicum1\Homework\vse chetnie do N\obj\Debug\net6.0\vse chetnie do N.AssemblyInfoInputs.cache
+D:\Geek\my-git\CSharp\Practicum1\Homework\vse chetnie do N\obj\Debug\net6.0\vse chetnie do N.AssemblyInfo.cs
+D:\Geek\my-git\CSharp\Practicum1\Homework\vse chetnie do N\obj\Debug\net6.0\vse chetnie do N.csproj.CoreCompileInputs.cache
+D:\Geek\my-git\CSharp\Practicum1\Homework\vse chetnie do N\bin\Debug\net6.0\vse chetnie do N.exe
+D:\Geek\my-git\CSharp\Practicum1\Homework\vse chetnie do N\bin\Debug\net6.0\vse chetnie do N.deps.json
+D:\Geek\my-git\CSharp\Practicum1\Homework\vse chetnie do N\bin\Debug\net6.0\vse chetnie do N.runtimeconfig.json
+D:\Geek\my-git\CSharp\Practicum1\Homework\vse chetnie do N\bin\Debug\net6.0\vse chetnie do N.dll
+D:\Geek\my-git\CSharp\Practicum1\Homework\vse chetnie do N\bin\Debug\net6.0\vse chetnie do N.pdb
+D:\Geek\my-git\CSharp\Practicum1\Homework\vse chetnie do N\obj\Debug\net6.0\vse chetnie do N.dll
+D:\Geek\my-git\CSharp\Practicum1\Homework\vse chetnie do N\obj\Debug\net6.0\refint\vse chetnie do N.dll
+D:\Geek\my-git\CSharp\Practicum1\Homework\vse chetnie do N\obj\Debug\net6.0\vse chetnie do N.pdb
+D:\Geek\my-git\CSharp\Practicum1\Homework\vse chetnie do N\obj\Debug\net6.0\vse chetnie do N.genruntimeconfig.cache
+D:\Geek\my-git\CSharp\Practicum1\Homework\vse chetnie do N\obj\Debug\net6.0\ref\vse chetnie do N.dll

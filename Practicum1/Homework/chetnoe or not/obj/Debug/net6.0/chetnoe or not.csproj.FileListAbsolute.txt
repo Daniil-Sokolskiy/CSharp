@@ -1,0 +1,15 @@
+D:\Geek\my-git\CSharp\Practicum1\Homework\chetnoe or not\bin\Debug\net6.0\chetnoe or not.exe
+D:\Geek\my-git\CSharp\Practicum1\Homework\chetnoe or not\bin\Debug\net6.0\chetnoe or not.deps.json
+D:\Geek\my-git\CSharp\Practicum1\Homework\chetnoe or not\bin\Debug\net6.0\chetnoe or not.runtimeconfig.json
+D:\Geek\my-git\CSharp\Practicum1\Homework\chetnoe or not\bin\Debug\net6.0\chetnoe or not.dll
+D:\Geek\my-git\CSharp\Practicum1\Homework\chetnoe or not\bin\Debug\net6.0\chetnoe or not.pdb
+D:\Geek\my-git\CSharp\Practicum1\Homework\chetnoe or not\obj\Debug\net6.0\chetnoe or not.csproj.AssemblyReference.cache
+D:\Geek\my-git\CSharp\Practicum1\Homework\chetnoe or not\obj\Debug\net6.0\chetnoe or not.GeneratedMSBuildEditorConfig.editorconfig
+D:\Geek\my-git\CSharp\Practicum1\Homework\chetnoe or not\obj\Debug\net6.0\chetnoe or not.AssemblyInfoInputs.cache
+D:\Geek\my-git\CSharp\Practicum1\Homework\chetnoe or not\obj\Debug\net6.0\chetnoe or not.AssemblyInfo.cs
+D:\Geek\my-git\CSharp\Practicum1\Homework\chetnoe or not\obj\Debug\net6.0\chetnoe or not.csproj.CoreCompileInputs.cache
+D:\Geek\my-git\CSharp\Practicum1\Homework\chetnoe or not\obj\Debug\net6.0\chetnoe or not.dll
+D:\Geek\my-git\CSharp\Practicum1\Homework\chetnoe or not\obj\Debug\net6.0\refint\chetnoe or not.dll
+D:\Geek\my-git\CSharp\Practicum1\Homework\chetnoe or not\obj\Debug\net6.0\chetnoe or not.pdb
+D:\Geek\my-git\CSharp\Practicum1\Homework\chetnoe or not\obj\Debug\net6.0\chetnoe or not.genruntimeconfig.cache
+D:\Geek\my-git\CSharp\Practicum1\Homework\chetnoe or not\obj\Debug\net6.0\ref\chetnoe or not.dll

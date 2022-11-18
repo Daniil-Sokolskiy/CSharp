@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "vse chetnie do N/1.0.0": {
+        "runtime": {
+          "vse chetnie do N.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "vse chetnie do N/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
