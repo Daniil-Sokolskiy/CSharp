@@ -1,0 +1,15 @@
+D:\Geek\my-git\CSharp\Practicum1\Homework\Minmax\obj\Debug\net6.0\Minmax.csproj.AssemblyReference.cache
+D:\Geek\my-git\CSharp\Practicum1\Homework\Minmax\obj\Debug\net6.0\Minmax.GeneratedMSBuildEditorConfig.editorconfig
+D:\Geek\my-git\CSharp\Practicum1\Homework\Minmax\obj\Debug\net6.0\Minmax.AssemblyInfoInputs.cache
+D:\Geek\my-git\CSharp\Practicum1\Homework\Minmax\obj\Debug\net6.0\Minmax.AssemblyInfo.cs
+D:\Geek\my-git\CSharp\Practicum1\Homework\Minmax\obj\Debug\net6.0\Minmax.csproj.CoreCompileInputs.cache
+D:\Geek\my-git\CSharp\Practicum1\Homework\Minmax\bin\Debug\net6.0\Minmax.exe
+D:\Geek\my-git\CSharp\Practicum1\Homework\Minmax\bin\Debug\net6.0\Minmax.deps.json
+D:\Geek\my-git\CSharp\Practicum1\Homework\Minmax\bin\Debug\net6.0\Minmax.runtimeconfig.json
+D:\Geek\my-git\CSharp\Practicum1\Homework\Minmax\bin\Debug\net6.0\Minmax.dll
+D:\Geek\my-git\CSharp\Practicum1\Homework\Minmax\bin\Debug\net6.0\Minmax.pdb
+D:\Geek\my-git\CSharp\Practicum1\Homework\Minmax\obj\Debug\net6.0\Minmax.dll
+D:\Geek\my-git\CSharp\Practicum1\Homework\Minmax\obj\Debug\net6.0\refint\Minmax.dll
+D:\Geek\my-git\CSharp\Practicum1\Homework\Minmax\obj\Debug\net6.0\Minmax.pdb
+D:\Geek\my-git\CSharp\Practicum1\Homework\Minmax\obj\Debug\net6.0\Minmax.genruntimeconfig.cache
+D:\Geek\my-git\CSharp\Practicum1\Homework\Minmax\obj\Debug\net6.0\ref\Minmax.dll
