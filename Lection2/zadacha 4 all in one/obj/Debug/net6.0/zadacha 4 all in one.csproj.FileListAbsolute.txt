@@ -1,0 +1,15 @@
+D:\Geek\my-git\CSharp\Lection2\zadacha 4 all in one\bin\Debug\net6.0\zadacha 4 all in one.exe
+D:\Geek\my-git\CSharp\Lection2\zadacha 4 all in one\bin\Debug\net6.0\zadacha 4 all in one.deps.json
+D:\Geek\my-git\CSharp\Lection2\zadacha 4 all in one\bin\Debug\net6.0\zadacha 4 all in one.runtimeconfig.json
+D:\Geek\my-git\CSharp\Lection2\zadacha 4 all in one\bin\Debug\net6.0\zadacha 4 all in one.dll
+D:\Geek\my-git\CSharp\Lection2\zadacha 4 all in one\bin\Debug\net6.0\zadacha 4 all in one.pdb
+D:\Geek\my-git\CSharp\Lection2\zadacha 4 all in one\obj\Debug\net6.0\zadacha 4 all in one.csproj.AssemblyReference.cache
+D:\Geek\my-git\CSharp\Lection2\zadacha 4 all in one\obj\Debug\net6.0\zadacha 4 all in one.GeneratedMSBuildEditorConfig.editorconfig
+D:\Geek\my-git\CSharp\Lection2\zadacha 4 all in one\obj\Debug\net6.0\zadacha 4 all in one.AssemblyInfoInputs.cache
+D:\Geek\my-git\CSharp\Lection2\zadacha 4 all in one\obj\Debug\net6.0\zadacha 4 all in one.AssemblyInfo.cs
+D:\Geek\my-git\CSharp\Lection2\zadacha 4 all in one\obj\Debug\net6.0\zadacha 4 all in one.csproj.CoreCompileInputs.cache
+D:\Geek\my-git\CSharp\Lection2\zadacha 4 all in one\obj\Debug\net6.0\zadacha 4 all in one.dll
+D:\Geek\my-git\CSharp\Lection2\zadacha 4 all in one\obj\Debug\net6.0\refint\zadacha 4 all in one.dll
+D:\Geek\my-git\CSharp\Lection2\zadacha 4 all in one\obj\Debug\net6.0\zadacha 4 all in one.pdb
+D:\Geek\my-git\CSharp\Lection2\zadacha 4 all in one\obj\Debug\net6.0\zadacha 4 all in one.genruntimeconfig.cache
+D:\Geek\my-git\CSharp\Lection2\zadacha 4 all in one\obj\Debug\net6.0\ref\zadacha 4 all in one.dll
