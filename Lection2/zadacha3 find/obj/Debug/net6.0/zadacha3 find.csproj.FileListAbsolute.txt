@@ -1,0 +1,15 @@
+D:\Geek\my-git\CSharp\Lection2\zadacha3 find\obj\Debug\net6.0\zadacha3 find.csproj.AssemblyReference.cache
+D:\Geek\my-git\CSharp\Lection2\zadacha3 find\obj\Debug\net6.0\zadacha3 find.GeneratedMSBuildEditorConfig.editorconfig
+D:\Geek\my-git\CSharp\Lection2\zadacha3 find\obj\Debug\net6.0\zadacha3 find.AssemblyInfoInputs.cache
+D:\Geek\my-git\CSharp\Lection2\zadacha3 find\obj\Debug\net6.0\zadacha3 find.AssemblyInfo.cs
+D:\Geek\my-git\CSharp\Lection2\zadacha3 find\obj\Debug\net6.0\zadacha3 find.csproj.CoreCompileInputs.cache
+D:\Geek\my-git\CSharp\Lection2\zadacha3 find\bin\Debug\net6.0\zadacha3 find.exe
+D:\Geek\my-git\CSharp\Lection2\zadacha3 find\bin\Debug\net6.0\zadacha3 find.deps.json
+D:\Geek\my-git\CSharp\Lection2\zadacha3 find\bin\Debug\net6.0\zadacha3 find.runtimeconfig.json
+D:\Geek\my-git\CSharp\Lection2\zadacha3 find\bin\Debug\net6.0\zadacha3 find.dll
+D:\Geek\my-git\CSharp\Lection2\zadacha3 find\bin\Debug\net6.0\zadacha3 find.pdb
+D:\Geek\my-git\CSharp\Lection2\zadacha3 find\obj\Debug\net6.0\zadacha3 find.dll
+D:\Geek\my-git\CSharp\Lection2\zadacha3 find\obj\Debug\net6.0\refint\zadacha3 find.dll
+D:\Geek\my-git\CSharp\Lection2\zadacha3 find\obj\Debug\net6.0\zadacha3 find.pdb
+D:\Geek\my-git\CSharp\Lection2\zadacha3 find\obj\Debug\net6.0\zadacha3 find.genruntimeconfig.cache
+D:\Geek\my-git\CSharp\Lection2\zadacha3 find\obj\Debug\net6.0\ref\zadacha3 find.dll
