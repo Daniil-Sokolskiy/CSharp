@@ -1,0 +1,15 @@
+D:\Geek\my-git\CSharp\Lection3\metods\bin\Debug\net6.0\metods.exe
+D:\Geek\my-git\CSharp\Lection3\metods\bin\Debug\net6.0\metods.deps.json
+D:\Geek\my-git\CSharp\Lection3\metods\bin\Debug\net6.0\metods.runtimeconfig.json
+D:\Geek\my-git\CSharp\Lection3\metods\bin\Debug\net6.0\metods.dll
+D:\Geek\my-git\CSharp\Lection3\metods\bin\Debug\net6.0\metods.pdb
+D:\Geek\my-git\CSharp\Lection3\metods\obj\Debug\net6.0\metods.csproj.AssemblyReference.cache
+D:\Geek\my-git\CSharp\Lection3\metods\obj\Debug\net6.0\metods.GeneratedMSBuildEditorConfig.editorconfig
+D:\Geek\my-git\CSharp\Lection3\metods\obj\Debug\net6.0\metods.AssemblyInfoInputs.cache
+D:\Geek\my-git\CSharp\Lection3\metods\obj\Debug\net6.0\metods.AssemblyInfo.cs
+D:\Geek\my-git\CSharp\Lection3\metods\obj\Debug\net6.0\metods.csproj.CoreCompileInputs.cache
+D:\Geek\my-git\CSharp\Lection3\metods\obj\Debug\net6.0\metods.dll
+D:\Geek\my-git\CSharp\Lection3\metods\obj\Debug\net6.0\refint\metods.dll
+D:\Geek\my-git\CSharp\Lection3\metods\obj\Debug\net6.0\metods.pdb
+D:\Geek\my-git\CSharp\Lection3\metods\obj\Debug\net6.0\metods.genruntimeconfig.cache
+D:\Geek\my-git\CSharp\Lection3\metods\obj\Debug\net6.0\ref\metods.dll
