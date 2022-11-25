@@ -1,0 +1,15 @@
+D:\Geek\my-git\CSharp\Lection3\zadacha 2\bin\Debug\net6.0\zadacha 2.exe
+D:\Geek\my-git\CSharp\Lection3\zadacha 2\bin\Debug\net6.0\zadacha 2.deps.json
+D:\Geek\my-git\CSharp\Lection3\zadacha 2\bin\Debug\net6.0\zadacha 2.runtimeconfig.json
+D:\Geek\my-git\CSharp\Lection3\zadacha 2\bin\Debug\net6.0\zadacha 2.dll
+D:\Geek\my-git\CSharp\Lection3\zadacha 2\bin\Debug\net6.0\zadacha 2.pdb
+D:\Geek\my-git\CSharp\Lection3\zadacha 2\obj\Debug\net6.0\zadacha 2.csproj.AssemblyReference.cache
+D:\Geek\my-git\CSharp\Lection3\zadacha 2\obj\Debug\net6.0\zadacha 2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Geek\my-git\CSharp\Lection3\zadacha 2\obj\Debug\net6.0\zadacha 2.AssemblyInfoInputs.cache
+D:\Geek\my-git\CSharp\Lection3\zadacha 2\obj\Debug\net6.0\zadacha 2.AssemblyInfo.cs
+D:\Geek\my-git\CSharp\Lection3\zadacha 2\obj\Debug\net6.0\zadacha 2.csproj.CoreCompileInputs.cache
+D:\Geek\my-git\CSharp\Lection3\zadacha 2\obj\Debug\net6.0\zadacha 2.dll
+D:\Geek\my-git\CSharp\Lection3\zadacha 2\obj\Debug\net6.0\refint\zadacha 2.dll
+D:\Geek\my-git\CSharp\Lection3\zadacha 2\obj\Debug\net6.0\zadacha 2.pdb
+D:\Geek\my-git\CSharp\Lection3\zadacha 2\obj\Debug\net6.0\zadacha 2.genruntimeconfig.cache
+D:\Geek\my-git\CSharp\Lection3\zadacha 2\obj\Debug\net6.0\ref\zadacha 2.dll
