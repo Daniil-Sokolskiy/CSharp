@@ -1,0 +1,15 @@
+D:\Geek\my-git\CSharp\Practicum5\Classwork\new commands\obj\Debug\net6.0\new commands.csproj.AssemblyReference.cache
+D:\Geek\my-git\CSharp\Practicum5\Classwork\new commands\obj\Debug\net6.0\new commands.GeneratedMSBuildEditorConfig.editorconfig
+D:\Geek\my-git\CSharp\Practicum5\Classwork\new commands\obj\Debug\net6.0\new commands.AssemblyInfoInputs.cache
+D:\Geek\my-git\CSharp\Practicum5\Classwork\new commands\obj\Debug\net6.0\new commands.AssemblyInfo.cs
+D:\Geek\my-git\CSharp\Practicum5\Classwork\new commands\obj\Debug\net6.0\new commands.csproj.CoreCompileInputs.cache
+D:\Geek\my-git\CSharp\Practicum5\Classwork\new commands\bin\Debug\net6.0\new commands.exe
+D:\Geek\my-git\CSharp\Practicum5\Classwork\new commands\bin\Debug\net6.0\new commands.deps.json
+D:\Geek\my-git\CSharp\Practicum5\Classwork\new commands\bin\Debug\net6.0\new commands.runtimeconfig.json
+D:\Geek\my-git\CSharp\Practicum5\Classwork\new commands\bin\Debug\net6.0\new commands.dll
+D:\Geek\my-git\CSharp\Practicum5\Classwork\new commands\bin\Debug\net6.0\new commands.pdb
+D:\Geek\my-git\CSharp\Practicum5\Classwork\new commands\obj\Debug\net6.0\new commands.dll
+D:\Geek\my-git\CSharp\Practicum5\Classwork\new commands\obj\Debug\net6.0\refint\new commands.dll
+D:\Geek\my-git\CSharp\Practicum5\Classwork\new commands\obj\Debug\net6.0\new commands.pdb
+D:\Geek\my-git\CSharp\Practicum5\Classwork\new commands\obj\Debug\net6.0\new commands.genruntimeconfig.cache
+D:\Geek\my-git\CSharp\Practicum5\Classwork\new commands\obj\Debug\net6.0\ref\new commands.dll
