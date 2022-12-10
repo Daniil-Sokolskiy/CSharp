@@ -1,0 +1,15 @@
+D:\Geek\my-git\CSharp\practicum8\homework\zadacha2\obj\Debug\net6.0\zadacha2.csproj.AssemblyReference.cache
+D:\Geek\my-git\CSharp\practicum8\homework\zadacha2\obj\Debug\net6.0\zadacha2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Geek\my-git\CSharp\practicum8\homework\zadacha2\obj\Debug\net6.0\zadacha2.AssemblyInfoInputs.cache
+D:\Geek\my-git\CSharp\practicum8\homework\zadacha2\obj\Debug\net6.0\zadacha2.AssemblyInfo.cs
+D:\Geek\my-git\CSharp\practicum8\homework\zadacha2\obj\Debug\net6.0\zadacha2.csproj.CoreCompileInputs.cache
+D:\Geek\my-git\CSharp\practicum8\homework\zadacha2\bin\Debug\net6.0\zadacha2.exe
+D:\Geek\my-git\CSharp\practicum8\homework\zadacha2\bin\Debug\net6.0\zadacha2.deps.json
+D:\Geek\my-git\CSharp\practicum8\homework\zadacha2\bin\Debug\net6.0\zadacha2.runtimeconfig.json
+D:\Geek\my-git\CSharp\practicum8\homework\zadacha2\bin\Debug\net6.0\zadacha2.dll
+D:\Geek\my-git\CSharp\practicum8\homework\zadacha2\bin\Debug\net6.0\zadacha2.pdb
+D:\Geek\my-git\CSharp\practicum8\homework\zadacha2\obj\Debug\net6.0\zadacha2.dll
+D:\Geek\my-git\CSharp\practicum8\homework\zadacha2\obj\Debug\net6.0\refint\zadacha2.dll
+D:\Geek\my-git\CSharp\practicum8\homework\zadacha2\obj\Debug\net6.0\zadacha2.pdb
+D:\Geek\my-git\CSharp\practicum8\homework\zadacha2\obj\Debug\net6.0\zadacha2.genruntimeconfig.cache
+D:\Geek\my-git\CSharp\practicum8\homework\zadacha2\obj\Debug\net6.0\ref\zadacha2.dll
