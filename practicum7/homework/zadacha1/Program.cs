@@ -10,7 +10,7 @@ void FillArray(double[,] matr)
     {
         for (int j = 0; j < matr.GetLength(1); j++)
         {
-            matr[i, j] = Math.Round(new Random().NextDouble()*10, 2);
+            matr[i, j] = Math.Round(new Random().NextDouble()*new Random().Next(-20,21), 2);
         }
     }
 }
