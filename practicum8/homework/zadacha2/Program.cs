@@ -51,14 +51,14 @@ int minSum(int[,] matr)
     for (int i = 1; i < summury.Length; i++)
     {
 
-        if (summury[i] <= summury[minrow]) minrow = i; // если строк с наим суммой несколько сделать минроу массивом/строкой в который записываются строки
+        if (summury[i] <= summury[minrow]) minrow = i; // если строк с наим суммой несколько, что можно сделать?
     }
     return minrow + 1;
 }
 
 Console.Write("Введите количество строк m = ");
 int m = Convert.ToInt32(Console.ReadLine());
-Console.Write("Введите количество столбцов m = ");
+Console.Write("Введите количество столбцов n = ");
 int n = Convert.ToInt32(Console.ReadLine());
 int[,] matrix = new int[m, n];
 FillMatrix(matrix);
